@@ -1,5 +1,0 @@
-[Default]
-dataDirectory 	   = C:\\temp
-frameRate          = 50.0
-beginRedLine       = 0
-endRedLine         = 1000
