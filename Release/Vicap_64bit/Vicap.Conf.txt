@@ -1,5 +1,0 @@
-[Default]
-dataDirectory = C:\\Temp
-frameRate     = 50
-useOriginalFrameRate = true
-
