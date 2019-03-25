@@ -4,7 +4,7 @@ Spatiotemporal Gait Analysis System (SGAS) software and Excel forms
 
 The SGAS software consists of:
 
-Calib: camera calibration software
+..* Calib: camera calibration software
 
 Vicap: video recording software
 
