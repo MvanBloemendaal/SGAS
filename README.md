@@ -13,4 +13,6 @@ Tidip: position and time assessment software
 
 --
 
-The forms can be secured with a password so that end users can fill only fields that apply.
+In the folder Release are the software applications (.exe).
+
+The forms (in the folder Additional files) can be secured with a password so that end users can fill only fields that apply.
