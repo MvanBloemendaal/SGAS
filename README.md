@@ -13,6 +13,6 @@ Tidip: position and time assessment software
 
 --
 
-The Python source codes are available at GitHub (folder Source). Because of the volume, the applications (.exe) are available from the corresponding author.
+The applications can be found under Release.
 
 The forms (in the folder Additional files) can be secured with a password so that end users can fill only fields that apply.
