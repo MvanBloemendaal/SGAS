@@ -13,6 +13,6 @@ Tidip: position and time assessment software
 
 --
 
-The applications can be found under Release.
+The applications can be found under '1 release'.
 
 The forms (in the folder Additional files) can be secured with a password so that end users can fill only fields that apply.
