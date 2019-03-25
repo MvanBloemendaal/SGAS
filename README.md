@@ -1,5 +1,5 @@
 # SGAS
-Spatiotemporal Gait Analysis System (SGAS) software and Excel forms
+Spatiotemporal Gait Analysis System (SGAS) software and forms
 
 --
 
@@ -13,4 +13,4 @@ Tidip: position and time assessment software
 
 --
 
-The Excel forms can be secured with a password so that end users can fill only fields that apply.
+The forms can be secured with a password so that end users can fill only fields that apply.
